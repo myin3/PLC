@@ -1,0 +1,12 @@
+"Hello_World!"
+"HI WORLD?"
+105
+112.0f
+112.3
+_hi
+hi
+$hi
+0hi
+"hellos
+125d
+131.1d
